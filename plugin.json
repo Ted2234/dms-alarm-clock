@@ -1,0 +1,16 @@
+{
+
+    "id": "alarmClock",
+    "name": "Alarm Clock",
+    "description": "Alarm clock with countdownm, timer and Pomodoro timer for DankMaterialShell",
+    "category": "",
+    "version": "0.1.0",
+    "author": "Ted2234",
+    "type": "widget",
+    "icon": "alarm",
+    "component": "./AlarmClock.qml",
+    "capabilities": ["dankbar-widget"],
+    "permissions": ["settings_read", "settings_write"],
+    "requires_dms": ">=1.2.0"
+
+}
